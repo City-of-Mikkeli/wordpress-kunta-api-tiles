@@ -10,11 +10,11 @@ defined ( 'ABSPATH' ) || die ( 'No script kiddies please!' );
 
 require_once ('constants.php');
 
-add_action ( 'init', 'create_post_type' );
+add_action ( 'init', 'kuntaApiTilesCreatePostType' );
 
 function create_post_type() {
   
-	register_post_type ( 'kunta_api_tiles', array (
+	register_post_type ( 'kuntaApiTilesCreatePostType', array (
 	'labels' => array (
 	  'name'               => __( 'Tiles', KUNTA_API_TILES_I18N_DOMAIN ),
 	  'singular_name'      => __( 'Tile', KUNTA_API_TILES_I18N_DOMAIN ),
