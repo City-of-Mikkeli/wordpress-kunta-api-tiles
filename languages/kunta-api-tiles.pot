@@ -1,0 +1,74 @@
+# Copyright (C) 2016 Kunta API Tiles
+# This file is distributed under the same license as the Kunta API Tiles package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kunta API Tiles 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-kunta-"
+"api-tiles\n"
+"POT-Creation-Date: 2016-09-12 12:10:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: kunta-api-tiles.php:22
+msgid "Header Tiles"
+msgstr ""
+
+#: kunta-api-tiles.php:23
+msgid "Header Tile"
+msgstr ""
+
+#: kunta-api-tiles.php:24
+msgid "Add Tile"
+msgstr ""
+
+#: kunta-api-tiles.php:25
+msgid "Add New Tile"
+msgstr ""
+
+#: kunta-api-tiles.php:26
+msgid "Edit Tile"
+msgstr ""
+
+#: kunta-api-tiles.php:27
+msgid "New Tile"
+msgstr ""
+
+#: kunta-api-tiles.php:28
+msgid "View Tile"
+msgstr ""
+
+#: kunta-api-tiles.php:29
+msgid "Search Tiles"
+msgstr ""
+
+#: kunta-api-tiles.php:30
+msgid "No Tiles found"
+msgstr ""
+
+#: kunta-api-tiles.php:31
+msgid "No Tiles in trash"
+msgstr ""
+
+#: kunta-api-tiles.php:32 kunta-api-tiles.php:33
+msgid "Tiles"
+msgstr ""
+
+#: kunta-api-tiles.php:55
+msgid "Tile Link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Kunta API Tiles"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Kunta API Header Tiles plugin for Wordpress"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Antti Leppä / Otavan Opisto"
+msgstr ""

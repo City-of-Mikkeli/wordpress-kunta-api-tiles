@@ -1,0 +1,77 @@
+# Copyright (C) 2016 Kunta API Tiles
+# This file is distributed under the same license as the Kunta API Tiles package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kunta API Tiles 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wordpress-kunta-"
+"api-tiles\n"
+"POT-Creation-Date: 2016-09-12 15:25+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-09-12 15:28+0300\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fi\n"
+
+#: kunta-api-tiles.php:22
+msgid "Header Tiles"
+msgstr "Pikkubannerit"
+
+#: kunta-api-tiles.php:23
+msgid "Header Tile"
+msgstr "Pikkubanneri"
+
+#: kunta-api-tiles.php:24
+msgid "Add Tile"
+msgstr "Lisää pikkubanneri"
+
+#: kunta-api-tiles.php:25
+msgid "Add New Tile"
+msgstr "Lisää uusi pikkubanneri"
+
+#: kunta-api-tiles.php:26
+msgid "Edit Tile"
+msgstr "Muokkaa pikkubanneria"
+
+#: kunta-api-tiles.php:27
+msgid "New Tile"
+msgstr "Uusi pikkubanneri"
+
+#: kunta-api-tiles.php:28
+msgid "View Tile"
+msgstr "Näytä pikkubanneri"
+
+#: kunta-api-tiles.php:29
+msgid "Search Tiles"
+msgstr "Hae pikkubannereita"
+
+#: kunta-api-tiles.php:30
+msgid "No Tiles found"
+msgstr "Pikkubannereita ei löytynyt"
+
+#: kunta-api-tiles.php:31
+msgid "No Tiles in trash"
+msgstr "Ei pikkubannereita roskakorissa"
+
+#: kunta-api-tiles.php:32 kunta-api-tiles.php:33
+msgid "Tiles"
+msgstr "Pikkubannerit"
+
+#: kunta-api-tiles.php:55
+msgid "Tile Link"
+msgstr "Pikkubannerilinkki"
+
+#. Plugin Name of the plugin/theme
+msgid "Kunta API Tiles"
+msgstr "Kunta API pikkubannerit"
+
+#. Description of the plugin/theme
+msgid "Kunta API Header Tiles plugin for Wordpress"
+msgstr "Kunta API pikkubanneri lisäosa Wordpressille"
+
+#. Author of the plugin/theme
+msgid "Antti Leppä / Otavan Opisto"
+msgstr "Antti Leppä / Otavan Opisto"
